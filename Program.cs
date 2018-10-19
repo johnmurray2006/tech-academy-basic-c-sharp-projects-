@@ -6,10 +6,11 @@ namespace ConsoleApp5
     {
         static void Main()
         {
-            Console.WriteLine("Welcome to ACME Accounting Systems.");
+            Console.WriteLine("The Tech Academy.");
             Console.ReadLine();
-            Console.WriteLine("Remember, we're \"accounting\" on you!");
+            Console.WriteLine("Student Daily Report.");
             Console.ReadLine();
+
 
         }
     }

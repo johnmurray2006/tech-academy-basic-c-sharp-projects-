@@ -1,0 +1,7 @@
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Tech_Academy_Student\bin\Debug\Tech_Academy_Student.exe.config
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Tech_Academy_Student\bin\Debug\Tech_Academy_Student.exe
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Tech_Academy_Student\bin\Debug\Tech_Academy_Student.pdb
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Tech_Academy_Student\obj\Debug\Tech_Academy_Student.csproj.CoreCompileInputs.cache
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Tech_Academy_Student\obj\Debug\Tech_Academy_Student.exe
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Tech_Academy_Student\obj\Debug\Tech_Academy_Student.pdb
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Tech_Academy_Student\obj\Debug\Tech_Academy_Student.csprojAssemblyReference.cache

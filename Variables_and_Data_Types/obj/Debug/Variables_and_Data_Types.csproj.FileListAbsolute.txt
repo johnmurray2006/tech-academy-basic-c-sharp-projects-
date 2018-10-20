@@ -1,0 +1,7 @@
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Variables_and_Data_Types\bin\Debug\Variables_and_Data_Types.exe.config
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Variables_and_Data_Types\bin\Debug\Variables_and_Data_Types.exe
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Variables_and_Data_Types\bin\Debug\Variables_and_Data_Types.pdb
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Variables_and_Data_Types\obj\Debug\Variables_and_Data_Types.csprojAssemblyReference.cache
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Variables_and_Data_Types\obj\Debug\Variables_and_Data_Types.csproj.CoreCompileInputs.cache
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Variables_and_Data_Types\obj\Debug\Variables_and_Data_Types.exe
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Variables_and_Data_Types\obj\Debug\Variables_and_Data_Types.pdb

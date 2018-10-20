@@ -1,0 +1,7 @@
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\EmployeeSalaryComparision\bin\Debug\EmployeeSalaryComparision.exe.config
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\EmployeeSalaryComparision\bin\Debug\EmployeeSalaryComparision.exe
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\EmployeeSalaryComparision\bin\Debug\EmployeeSalaryComparision.pdb
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\EmployeeSalaryComparision\obj\Debug\EmployeeSalaryComparision.csprojAssemblyReference.cache
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\EmployeeSalaryComparision\obj\Debug\EmployeeSalaryComparision.csproj.CoreCompileInputs.cache
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\EmployeeSalaryComparision\obj\Debug\EmployeeSalaryComparision.exe
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\EmployeeSalaryComparision\obj\Debug\EmployeeSalaryComparision.pdb

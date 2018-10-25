@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ElseandIf
+namespace Else.IfStatements
 {
     class Program
     {
@@ -39,13 +39,18 @@ namespace ElseandIf
             //string result = favNum == 12 ? "You have an awesome favorite number!" : "You do not have an awesome favorite number!";
             //Console.WriteLine(result);
             //Console.ReadLine();
+
+
             Console.WriteLine("Welcome to Package Express, please follow the instructions below.");
             Console.ReadLine();
             Console.WriteLine("What is the weight of your package?");
             int packageWeight = Convert.ToInt32(Console.ReadLine());
-            string result = packageWeight > 50 ? "Your package is to heavy to ship with Package Express, have a nice day." : "You can continue answering Package express shipping questionare.";
-            Console.WriteLine(result);
-           
+            if (packageWeight > 50)
+            {
+                Console.WriteLine("Your package is to heavy to ship with Package Express, have a nice day. You can continue answering Package express shipping questionare.");
+            }
+            Console.ReadLine();
+
             Console.ReadLine();
             Console.WriteLine("Please enter the packages width.");
             int packageWidth = Convert.ToInt32(Console.ReadLine());
@@ -55,15 +60,12 @@ namespace ElseandIf
             var packageHeight = Convert.ToInt32(Console.ReadLine());
             decimal Total = packageWidth + packageLength + packageHeight;
             Console.WriteLine(Total);
-           
-            string result1 = Total > 50 ? " Your package dimensions are too big to ship with Package Express thank you and have a nice day." :
-                "We will have a shipping quote in a few seconds for you, and again thanks for using Package Express.";
-            Console.WriteLine(result1);
+            if (Total > 50) {
+                Console.WriteLine(" Your package dimensions are too big to ship with Package Express thank you and have a nice day."); }
             Console.ReadLine();
             decimal Total1 = Total * packageWeight / 100;
             Console.WriteLine("Your estimated shipping cost is: $" +Total1);
             Console.ReadLine();
-
         }
     }
 }

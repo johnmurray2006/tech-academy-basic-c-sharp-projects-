@@ -1,0 +1,44 @@
+﻿using System;
+using System.Collections.Generic;
+
+
+class Program
+{
+   
+
+    static void Main(string[] args)
+    {
+        //    
+        try
+        {
+            List<int> numbers = new List<int>() { 8, 22, 44, 66, 88 };
+            Console.WriteLine("Please pick a number to divided into the numbers on the list.");
+
+
+            int numberTwo = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Dividing the two....");
+
+            foreach (int number in numbers)
+            {
+                int quotianted = number / numberTwo;
+                Console.WriteLine(quotianted);
+            }
+            Console.ReadLine();
+
+        }
+        catch (FormatException ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+        catch (DivideByZeroException ex)
+        {
+            Console.WriteLine("Please don't divide by zero pick another number.");
+        }
+        finally
+        {
+            Console.ReadLine();
+        }
+        
+    }
+   
+}

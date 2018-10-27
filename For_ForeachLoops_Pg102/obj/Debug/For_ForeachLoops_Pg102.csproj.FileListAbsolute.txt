@@ -1,0 +1,7 @@
+C:\Users\John Murray\source\repos\For_ForeachLoops_Pg102\bin\Debug\For_ForeachLoops_Pg102.exe.config
+C:\Users\John Murray\source\repos\For_ForeachLoops_Pg102\bin\Debug\For_ForeachLoops_Pg102.exe
+C:\Users\John Murray\source\repos\For_ForeachLoops_Pg102\bin\Debug\For_ForeachLoops_Pg102.pdb
+C:\Users\John Murray\source\repos\For_ForeachLoops_Pg102\obj\Debug\For_ForeachLoops_Pg102.csprojAssemblyReference.cache
+C:\Users\John Murray\source\repos\For_ForeachLoops_Pg102\obj\Debug\For_ForeachLoops_Pg102.csproj.CoreCompileInputs.cache
+C:\Users\John Murray\source\repos\For_ForeachLoops_Pg102\obj\Debug\For_ForeachLoops_Pg102.exe
+C:\Users\John Murray\source\repos\For_ForeachLoops_Pg102\obj\Debug\For_ForeachLoops_Pg102.pdb

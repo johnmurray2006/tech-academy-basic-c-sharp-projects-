@@ -1,0 +1,7 @@
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\Persons\bin\Debug\Persons.exe.config
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\Persons\bin\Debug\Persons.exe
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\Persons\bin\Debug\Persons.pdb
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\Persons\obj\Debug\Persons.csprojAssemblyReference.cache
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\Persons\obj\Debug\Persons.csproj.CoreCompileInputs.cache
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\Persons\obj\Debug\Persons.exe
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\Persons\obj\Debug\Persons.pdb

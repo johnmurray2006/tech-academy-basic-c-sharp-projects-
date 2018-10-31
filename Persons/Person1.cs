@@ -8,9 +8,17 @@ namespace Persons
 {
     public  class Person1
     {
+        //public static Employee operator ==(Employee e1, Employee e2) // the first step to adding an operator overload
+       
+           // e1
+            //return person1;
         
+
+
         public string FirstName { get; set; }
         public string LastName { get; set; }
+        public int id { get; set; }
+        
 
         public void SayName()
         {

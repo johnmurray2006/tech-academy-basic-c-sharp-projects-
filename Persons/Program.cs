@@ -16,7 +16,7 @@ namespace Persons
             employee.LastName = "Student";
 
             employee.SayName();
-            Console.WriteLine(employee.FirstName + employee.LastName);
+//Console.WriteLine(;
             Console.ReadLine();
 
         }

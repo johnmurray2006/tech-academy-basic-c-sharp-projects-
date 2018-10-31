@@ -9,8 +9,14 @@ namespace Persons
    public class Employee: Person1
     {
         public int Id { get; set; }
-        
+        public new void SayName()
+        {
+            Console.WriteLine(FirstName + LastName);
+            
+            Console.ReadLine();
+            return;
+        }
 
-        
+
     }
 }

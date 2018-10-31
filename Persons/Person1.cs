@@ -6,16 +6,18 @@ using System.Threading.Tasks;
 
 namespace Persons
 {
-   public class Person1
+    public abstract class Person1
     {
         public string FirstName { get; set; }
-        public string LastName { get; set;}
+        public string LastName { get; set; }
 
         public void SayName()
         {
             Console.WriteLine("Name:[fullname]");
             Console.ReadLine();
+            return;
         }
     }
+  }
 
-}
+

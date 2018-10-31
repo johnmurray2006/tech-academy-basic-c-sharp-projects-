@@ -5,3 +5,10 @@ C:\Users\John Murray\source\repos\Methods2\obj\Debug\Methods2.csprojAssemblyRefe
 C:\Users\John Murray\source\repos\Methods2\obj\Debug\Methods2.csproj.CoreCompileInputs.cache
 C:\Users\John Murray\source\repos\Methods2\obj\Debug\Methods2.exe
 C:\Users\John Murray\source\repos\Methods2\obj\Debug\Methods2.pdb
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Methods2\bin\Debug\Methods2.exe.config
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Methods2\bin\Debug\Methods2.exe
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Methods2\bin\Debug\Methods2.pdb
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Methods2\obj\Debug\Methods2.csprojAssemblyReference.cache
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Methods2\obj\Debug\Methods2.csproj.CoreCompileInputs.cache
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Methods2\obj\Debug\Methods2.exe
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Methods2\obj\Debug\Methods2.pdb

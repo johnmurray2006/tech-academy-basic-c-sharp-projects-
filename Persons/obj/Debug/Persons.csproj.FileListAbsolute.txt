@@ -5,3 +5,10 @@ C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\Persons\obj
 C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\Persons\obj\Debug\Persons.csproj.CoreCompileInputs.cache
 C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\Persons\obj\Debug\Persons.exe
 C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\Persons\obj\Debug\Persons.pdb
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Persons\bin\Debug\Persons.exe.config
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Persons\bin\Debug\Persons.exe
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Persons\bin\Debug\Persons.pdb
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Persons\obj\Debug\Persons.csprojAssemblyReference.cache
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Persons\obj\Debug\Persons.csproj.CoreCompileInputs.cache
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Persons\obj\Debug\Persons.exe
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Persons\obj\Debug\Persons.pdb

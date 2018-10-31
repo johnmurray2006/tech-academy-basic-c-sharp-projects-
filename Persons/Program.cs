@@ -10,9 +10,10 @@ namespace Persons
     {
         static void Main(string[] args)
         {
-
             Employee employee = new Employee();
-            employee.FirstName = "Sample";
+            IQuittable quittable = new Employee();
+
+            employee.FirstName = "Sample ";
             employee.LastName = "Student";
 
             employee.SayName();

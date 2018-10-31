@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Dividing
 {
-   public class Good_Life
+   public static class Good_Life
     {
 
         public void Happy2( int num1)

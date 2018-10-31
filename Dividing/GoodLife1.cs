@@ -14,6 +14,11 @@ namespace Dividing
             num2 = Temp;
             Console.WriteLine(num2 / 5);
             Console.ReadLine();
+
+            int Temp = 100;
+            num2 = Temp;
+            Console.WriteLine(num2 / 5);
+            Console.ReadLine();
         }
     }
 }

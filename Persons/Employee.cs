@@ -6,14 +6,22 @@ using System.Threading.Tasks;
 
 namespace Persons
 {
-    public class Employee : Person1, IQuittable
+    
+    public class Employee <T> : Person1 //IQuittable
 
-    { public void Quit(Employee employee)
-        {
-            throw new NotImplementedException();
-        }
-       // public static Person1 operator ==(Person1 person1, Employee employee);
-        //public static Person1 operator !=(Person1 person1, Employee employee);
+    {
+      public List<T> Things { get; set; } 
+        public string Solid { get; set; }
+        public int Temperture { get; set; }
+     
+            
+        
+
+        //public void Quit(Employee employee)
+        ////{
+        ////    throw new NotImplementedException();
+        ////}
+     
         
 
 

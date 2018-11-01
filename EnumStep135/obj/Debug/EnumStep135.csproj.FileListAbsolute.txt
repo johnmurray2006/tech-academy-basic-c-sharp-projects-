@@ -1,0 +1,7 @@
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\EnumStep135\bin\Debug\EnumStep135.exe.config
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\EnumStep135\bin\Debug\EnumStep135.exe
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\EnumStep135\bin\Debug\EnumStep135.pdb
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\EnumStep135\obj\Debug\EnumStep135.csprojAssemblyReference.cache
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\EnumStep135\obj\Debug\EnumStep135.csproj.CoreCompileInputs.cache
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\EnumStep135\obj\Debug\EnumStep135.exe
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\EnumStep135\obj\Debug\EnumStep135.pdb

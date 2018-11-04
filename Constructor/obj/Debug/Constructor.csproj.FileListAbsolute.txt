@@ -1,0 +1,2 @@
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Constructor\obj\Debug\Constructor.csprojAssemblyReference.cache
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache

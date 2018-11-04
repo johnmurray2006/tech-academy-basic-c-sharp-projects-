@@ -1,0 +1,6 @@
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Constructor1\bin\Debug\Constructor1.exe.config
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Constructor1\bin\Debug\Constructor1.exe
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Constructor1\bin\Debug\Constructor1.pdb
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Constructor1\obj\Debug\Constructor1.csproj.CoreCompileInputs.cache
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Constructor1\obj\Debug\Constructor1.exe
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Constructor1\obj\Debug\Constructor1.pdb

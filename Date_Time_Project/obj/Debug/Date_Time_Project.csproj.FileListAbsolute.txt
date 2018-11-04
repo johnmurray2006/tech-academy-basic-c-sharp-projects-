@@ -1,0 +1,7 @@
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Date_Time_Project\bin\Debug\Date_Time_Project.exe.config
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Date_Time_Project\bin\Debug\Date_Time_Project.exe
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Date_Time_Project\bin\Debug\Date_Time_Project.pdb
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Date_Time_Project\obj\Debug\Date_Time_Project.csprojAssemblyReference.cache
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Date_Time_Project\obj\Debug\Date_Time_Project.csproj.CoreCompileInputs.cache
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Date_Time_Project\obj\Debug\Date_Time_Project.exe
+C:\Users\John Murray\Documents\GitHub\techacademybasiccsharpprojects\tech-academy-basic-c-sharp-projects-\Date_Time_Project\obj\Debug\Date_Time_Project.pdb

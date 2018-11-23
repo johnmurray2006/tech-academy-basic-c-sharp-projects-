@@ -1,0 +1,7 @@
+﻿form-ui input{
+    margin: 5px 10px 0 10px
+}
+.form-label {
+    display: inline-block;
+    width: 100px;
+}
